@@ -1,1 +1,7 @@
-<h1 align="center">Codeforces Online</h1>
+<h1 align="center">Solved Codeforces Online Problems</h1>
+
+---
+
+| No. | Title              | Problem                                                     | Solution                       |
+| --- | ------------------ | ----------------------------------------------------------- | ------------------------------ |
+| 01  | A Food for Animals | [Codeforces](https://codeforces.com/contest/1675/problem/A) | [C++](./problems/CR#787_A.cpp) |
