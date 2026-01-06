@@ -4,4 +4,4 @@
 
 | No. | Title              | Problem                                                     | Solution                       |
 | --- | ------------------ | ----------------------------------------------------------- | ------------------------------ |
-| 01  | A Food for Animals | [Codeforces](https://codeforces.com/contest/1675/problem/A) | [C++](./problems/CR#787_A.cpp) |
+| 01  | A Food for Animals | [Codeforces](https://codeforces.com/contest/1675/problem/A) | [C++](./problems/CR_787_A.cpp) |
