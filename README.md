@@ -1,7 +1,7 @@
-<h1 align="center">Solved Codeforces Online Problems</h1>
+<h1 align="center">Solved Codeforces Online Contest Problems</h1>
 
 ---
 
-| No. | Title              | Problem                                                     | Solution                       |
-| --- | ------------------ | ----------------------------------------------------------- | ------------------------------ |
-| 01  | A Food for Animals | [Codeforces](https://codeforces.com/contest/1675/problem/A) | [C++](./problems/CR_787_A.cpp) |
+| No. | Title         | Problem                                                     | Solution                                               |
+| --- | ------------- | ----------------------------------------------------------- | ------------------------------------------------------ |
+| 01  | The Best Card | [Codeforces](https://codeforces.com/contest/2253/problem/A) | [JavaScript](./Problems/C2253_A_The_Best_Card/main.js) |
